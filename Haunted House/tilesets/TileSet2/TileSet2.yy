@@ -1,10 +1,10 @@
 {
   "resourceType": "GMTileSet",
   "resourceVersion": "1.0",
-  "name": "TileSet1",
+  "name": "TileSet2",
   "spriteId": {
-    "name": "spr_tile",
-    "path": "sprites/spr_tile/spr_tile.yy",
+    "name": "spr_second_room_tileset",
+    "path": "sprites/spr_second_room_tileset/spr_second_room_tileset.yy",
   },
   "tileWidth": 16,
   "tileHeight": 16,
@@ -1235,7 +1235,7 @@
     "TileSerialiseData": [],
   },
   "parent": {
-    "name": "Haunted House",
-    "path": "Haunted House.yyp",
+    "name": "Tile Sets",
+    "path": "folders/Tile Sets.yy",
   },
 }

@@ -1,0 +1,7 @@
+/// @DnDAction : YoYo Games.Instances.Set_Sprite
+/// @DnDVersion : 1
+/// @DnDHash : 38C9342B
+/// @DnDArgument : "spriteind" "MC_walking_down"
+/// @DnDSaveInfo : "spriteind" "MC_walking_down"
+sprite_index = MC_walking_down;
+image_index = 0;
