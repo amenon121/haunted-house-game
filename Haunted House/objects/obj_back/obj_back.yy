@@ -1,13 +1,13 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "obj_next",
+  "name": "obj_back",
   "spriteId": {
-    "name": "spr_next",
-    "path": "sprites/spr_next/spr_next.yy",
+    "name": "spr_room_back",
+    "path": "sprites/spr_room_back/spr_room_back.yy",
   },
   "solid": true,
-  "visible": true,
+  "visible": false,
   "managed": true,
   "spriteMaskId": null,
   "persistent": false,
@@ -24,7 +24,9 @@
   "physicsStartAwake": true,
   "physicsKinematic": false,
   "physicsShapePoints": [],
-  "eventList": [],
+  "eventList": [
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","isDnD":true,"eventNum":0,"eventType":4,"collisionObjectId":{"name":"obj_MC","path":"objects/obj_MC/obj_MC.yy",},},
+  ],
   "properties": [],
   "overriddenProperties": [],
   "parent": {
