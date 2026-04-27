@@ -25,7 +25,6 @@
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_1A952ED5","properties":[],"isDnd":false,"objectId":{"name":"obj_skeleton","path":"objects/obj_skeleton/obj_skeleton.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":1031.0,"y":288.0,},
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_6823FD0D","properties":[],"isDnd":false,"objectId":{"name":"obj_skeleton","path":"objects/obj_skeleton/obj_skeleton.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":738.0,"y":527.0,},
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_2413D095","properties":[],"isDnd":false,"objectId":{"name":"obj_skeleton","path":"objects/obj_skeleton/obj_skeleton.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":381.0,"y":606.0,},
-        {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_418DD608","properties":[],"isDnd":false,"objectId":{"name":"obj_skeleton","path":"objects/obj_skeleton/obj_skeleton.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":817.0,"y":387.0,},
       ],"visible":true,"depth":0,"userdefinedDepth":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritVisibility":true,"inheritSubLayers":true,"gridX":32,"gridY":32,"layers":[],"hierarchyFrozen":false,"effectEnabled":true,"effectType":null,"properties":[],},
     {"resourceType":"GMRInstanceLayer","resourceVersion":"1.0","name":"BlockTiles","instances":[
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_58BA7D3F","properties":[],"isDnd":false,"objectId":{"name":"obj_block","path":"objects/obj_block/obj_block.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":0.65625,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":1229.0,"y":100.0,},
@@ -419,7 +418,6 @@
     {"name":"inst_1A952ED5","path":"rooms/Room3/Room3.yy",},
     {"name":"inst_6823FD0D","path":"rooms/Room3/Room3.yy",},
     {"name":"inst_2413D095","path":"rooms/Room3/Room3.yy",},
-    {"name":"inst_418DD608","path":"rooms/Room3/Room3.yy",},
   ],
   "inheritCreationOrder": false,
   "sequenceId": null,

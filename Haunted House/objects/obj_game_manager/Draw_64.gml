@@ -9,12 +9,12 @@ draw_set_alpha(l62995A9C_0 / $ff);
 /// @DnDAction : YoYo Games.Drawing.Draw_Rectangle
 /// @DnDVersion : 1
 /// @DnDHash : 6A01ED4A
-/// @DnDArgument : "x1" "7"
+/// @DnDArgument : "x1" "10"
 /// @DnDArgument : "y1" "5"
-/// @DnDArgument : "x2" "175"
+/// @DnDArgument : "x2" "200"
 /// @DnDArgument : "y2" "40"
 /// @DnDArgument : "fill" "1"
-draw_rectangle(7, 5, 175, 40, 0);
+draw_rectangle(10, 5, 200, 40, 0);
 
 /// @DnDAction : YoYo Games.Drawing.Set_Color
 /// @DnDVersion : 1
@@ -34,14 +34,14 @@ draw_text(12, 13, string("amulet: ") + "");
 /// @DnDAction : YoYo Games.Drawing.Draw_Sprites_Stacked
 /// @DnDVersion : 1
 /// @DnDHash : 09F86EC2
-/// @DnDArgument : "x" "57"
+/// @DnDArgument : "x" "75"
 /// @DnDArgument : "y" "12"
-/// @DnDArgument : "sprite" "spr_amulet_collect"
+/// @DnDArgument : "sprite" "spr_amuletstat"
 /// @DnDArgument : "number" "global.amulet"
-/// @DnDSaveInfo : "sprite" "spr_amulet_collect"
-var l09F86EC2_0 = sprite_get_width(spr_amulet_collect);
+/// @DnDSaveInfo : "sprite" "spr_amuletstat"
+var l09F86EC2_0 = sprite_get_width(spr_amuletstat);
 var l09F86EC2_1 = 0;
 for(var l09F86EC2_2 = global.amulet; l09F86EC2_2 > 0; --l09F86EC2_2) {
-	draw_sprite(spr_amulet_collect, 0, 57 + l09F86EC2_1, 12);
+	draw_sprite(spr_amuletstat, 0, 75 + l09F86EC2_1, 12);
 	l09F86EC2_1 += l09F86EC2_0;
 }

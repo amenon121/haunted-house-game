@@ -1,9 +1,9 @@
 /// @DnDAction : YoYo Games.Rooms.Go_To_Room
 /// @DnDVersion : 1
 /// @DnDHash : 2E642997
-/// @DnDArgument : "room" "Room4"
-/// @DnDSaveInfo : "room" "Room4"
-room_goto(Room4);
+/// @DnDArgument : "room" "Win"
+/// @DnDSaveInfo : "room" "Win"
+room_goto(Win);
 
 /// @DnDAction : YoYo Games.Common.If_Variable
 /// @DnDVersion : 1
