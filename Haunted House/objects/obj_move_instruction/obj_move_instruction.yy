@@ -1,13 +1,13 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "obj_end",
+  "name": "obj_move_instruction",
   "spriteId": {
-    "name": "spr_end",
-    "path": "sprites/spr_end/spr_end.yy",
+    "name": "spr_move_instructions",
+    "path": "sprites/spr_move_instructions/spr_move_instructions.yy",
   },
-  "solid": true,
-  "visible": false,
+  "solid": false,
+  "visible": true,
   "managed": true,
   "spriteMaskId": null,
   "persistent": false,

@@ -7,7 +7,7 @@
     "path": "sprites/spr_next/spr_next.yy",
   },
   "solid": true,
-  "visible": true,
+  "visible": false,
   "managed": true,
   "spriteMaskId": null,
   "persistent": false,

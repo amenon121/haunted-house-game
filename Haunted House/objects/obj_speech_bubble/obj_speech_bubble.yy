@@ -1,13 +1,13 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "obj_end",
+  "name": "obj_speech_bubble",
   "spriteId": {
-    "name": "spr_end",
-    "path": "sprites/spr_end/spr_end.yy",
+    "name": "spr_speech_bubble",
+    "path": "sprites/spr_speech_bubble/spr_speech_bubble.yy",
   },
-  "solid": true,
-  "visible": false,
+  "solid": false,
+  "visible": true,
   "managed": true,
   "spriteMaskId": null,
   "persistent": false,
