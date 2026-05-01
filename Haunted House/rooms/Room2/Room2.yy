@@ -28,7 +28,6 @@
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_6DB5357D","properties":[],"isDnd":false,"objectId":{"name":"obj_skeleton","path":"objects/obj_skeleton/obj_skeleton.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":544.0,"y":576.0,},
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_18E85E1C","properties":[],"isDnd":false,"objectId":{"name":"obj_skeleton","path":"objects/obj_skeleton/obj_skeleton.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":1120.0,"y":512.0,},
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_709AB8C8","properties":[],"isDnd":false,"objectId":{"name":"obj_skeleton","path":"objects/obj_skeleton/obj_skeleton.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":544.0,"y":192.0,},
-        {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_7E5EE561","properties":[],"isDnd":false,"objectId":{"name":"obj_skeleton","path":"objects/obj_skeleton/obj_skeleton.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":1135.0,"y":222.0,},
       ],"visible":true,"depth":100,"userdefinedDepth":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritVisibility":true,"inheritSubLayers":true,"gridX":32,"gridY":32,"layers":[],"hierarchyFrozen":false,"effectEnabled":true,"effectType":null,"properties":[],},
     {"resourceType":"GMRInstanceLayer","resourceVersion":"1.0","name":"BlockTiles","instances":[
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_A7C3A80","properties":[],"isDnd":false,"objectId":{"name":"obj_block","path":"objects/obj_block/obj_block.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":0.0,"y":0.0,},
@@ -377,7 +376,6 @@
     {"name":"inst_6DB5357D","path":"rooms/Room2/Room2.yy",},
     {"name":"inst_18E85E1C","path":"rooms/Room2/Room2.yy",},
     {"name":"inst_709AB8C8","path":"rooms/Room2/Room2.yy",},
-    {"name":"inst_7E5EE561","path":"rooms/Room2/Room2.yy",},
     {"name":"inst_2F49340D","path":"rooms/Room2/Room2.yy",},
     {"name":"inst_2423B6C7","path":"rooms/Room2/Room2.yy",},
   ],
