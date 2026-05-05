@@ -35,13 +35,13 @@ draw_text(20, 13, string("amulet: ") + "");
 /// @DnDVersion : 1
 /// @DnDHash : 09F86EC2
 /// @DnDArgument : "x" "70"
-/// @DnDArgument : "y" "12"
+/// @DnDArgument : "y" "10"
 /// @DnDArgument : "sprite" "spr_amuletstat"
 /// @DnDArgument : "number" "global.amulet"
 /// @DnDSaveInfo : "sprite" "spr_amuletstat"
 var l09F86EC2_0 = sprite_get_width(spr_amuletstat);
 var l09F86EC2_1 = 0;
 for(var l09F86EC2_2 = global.amulet; l09F86EC2_2 > 0; --l09F86EC2_2) {
-	draw_sprite(spr_amuletstat, 0, 70 + l09F86EC2_1, 12);
+	draw_sprite(spr_amuletstat, 0, 70 + l09F86EC2_1, 10);
 	l09F86EC2_1 += l09F86EC2_0;
 }
