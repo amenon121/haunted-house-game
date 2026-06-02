@@ -6,7 +6,7 @@
   "volume": 1.0,
   "parentRoom": null,
   "views": [
-    {"inherit":false,"visible":true,"xview":458,"yview":128,"wview":400,"hview":150,"xport":0,"yport":0,"wport":1000,"hport":500,"hborder":150,"vborder":150,"hspeed":-5,"vspeed":-5,"objectId":{"name":"obj_MC","path":"objects/obj_MC/obj_MC.yy",},},
+    {"inherit":false,"visible":true,"xview":458,"yview":128,"wview":600,"hview":300,"xport":0,"yport":0,"wport":1000,"hport":500,"hborder":250,"vborder":250,"hspeed":-15,"vspeed":-15,"objectId":{"name":"obj_MC","path":"objects/obj_MC/obj_MC.yy",},},
     {"inherit":false,"visible":false,"xview":0,"yview":0,"wview":1366,"hview":768,"xport":0,"yport":0,"wport":1366,"hport":768,"hborder":32,"vborder":32,"hspeed":-1,"vspeed":-1,"objectId":null,},
     {"inherit":false,"visible":false,"xview":0,"yview":0,"wview":1366,"hview":768,"xport":0,"yport":0,"wport":1366,"hport":768,"hborder":32,"vborder":32,"hspeed":-1,"vspeed":-1,"objectId":null,},
     {"inherit":false,"visible":false,"xview":0,"yview":0,"wview":1366,"hview":768,"xport":0,"yport":0,"wport":1366,"hport":768,"hborder":32,"vborder":32,"hspeed":-1,"vspeed":-1,"objectId":null,},
